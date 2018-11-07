@@ -1,0 +1,15 @@
+{
+    "name": "plasma/plasma",
+    "description": "Plasma aims to be an asynchronous, non-blocking Database Abstraction Layer.",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Charlotte Dunois",
+            "email": "github@charuru.moe"
+        }
+    ],
+    "require": {
+        "plasma/core": "*"
+    }
+}
