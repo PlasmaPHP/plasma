@@ -1,7 +1,7 @@
 {
     "name": "plasma/plasma",
     "description": "Plasma aims to be an asynchronous, non-blocking Database Abstraction Layer.",
-    "type": "library",
+    "type": "metapackage",
     "license": "Apache-2.0",
     "authors": [
         {
@@ -10,6 +10,6 @@
         }
     ],
     "require": {
-        "plasma/core": "*"
+        
     }
 }
