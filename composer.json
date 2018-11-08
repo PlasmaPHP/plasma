@@ -9,9 +9,6 @@
             "email": "github@charuru.moe"
         }
     ],
-    "require": {
-        "plasma/core": "^0.1|dev-master"
-    },
     "suggest": {
         "plasma/core": "The core component of plasma."
     }
