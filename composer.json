@@ -9,7 +9,7 @@
             "email": "github@charuru.moe"
         }
     ],
-    "require": {
-        
+    "suggest": {
+        "plasma/core": "The core component of plasma."
     }
 }
