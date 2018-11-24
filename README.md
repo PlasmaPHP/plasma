@@ -12,5 +12,11 @@ They don't share a common interface, so it's impossible to type declare against 
 
 # Components
 - [Core component](https://github.com/PlasmaPHP/core)
-- Drivers (see core component for list)
+- [Binary Buffer component](https://github.com/PlasmaPHP/binary-buffer)
 - ...more components to come
+
+
+# Drivers
+This is a list of all known drivers for Plasma.
+
+- [plasma/driver-mysql](https://github.com/PlasmaPHP/driver-mysql) - A driver for MySQL/MariaDB
