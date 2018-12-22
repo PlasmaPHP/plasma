@@ -1,5 +1,5 @@
 # Plasma
-Plasma aims to be an asynchronous, non-blocking (data access) Database Abstraction Layer.
+Plasma provides an asynchronous, non-blocking (data access) Database Abstraction Layer.
 
 Plasma does not aim to be a full Database Abstraction Layer. Simulating missing features is not a goal and should never be.
 
