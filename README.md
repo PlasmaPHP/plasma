@@ -13,6 +13,7 @@ They don't share a common interface, so it's impossible to type declare against 
 # Components
 - [Core component](https://github.com/PlasmaPHP/core)
 - [Binary Buffer component](https://github.com/PlasmaPHP/binary-buffer)
+- [Schemas component](https://github.com/PlasmaPHP/schemas)
 - ...more components to come
 
 
